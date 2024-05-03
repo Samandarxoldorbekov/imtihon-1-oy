@@ -1,0 +1,6 @@
+hamid olimjon
+hamza
+behbudiy
+kecha va kunduz
+git config --global user.email "xoldorbekovsamandar@gmail.com"
+git config --global user.name "Samandarxoldorbekov"
